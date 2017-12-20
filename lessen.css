@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url('https://www.idf-global.com/assets/site/background_image_tmp-69b241e90a5bf0aaaf5d9a3eba86b02a827d0522b0425f2deceef057edbed36f.jpg');
+      background: url('achtergrond header.jpg.jpg');
       background-size: cover;
       color: 		#0077FF;
       font-family: sans-serif;
@@ -20,11 +20,11 @@
     }
     div.tekst {
       background: rgba(0,0,0,0.3);
-      width: 59%;
+      width: 40%;
       float: left;
     }
     div.niks {
-      width:20%;
+      width:30%;
       float: left;
     }
   ul li {

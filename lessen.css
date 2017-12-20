@@ -1,0 +1,51 @@
+    header {
+      text-align: center;
+      background: url('https://www.idf-global.com/assets/site/background_image_tmp-69b241e90a5bf0aaaf5d9a3eba86b02a827d0522b0425f2deceef057edbed36f.jpg');
+      background-size: cover;
+      color: 		#0077FF;
+      font-family: sans-serif;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    a {
+      color: white;
+    }
+  header  h1 {
+      font-size: 70px;
+      color: #0077FF;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    div.tekst {
+      background: rgba(0,0,0,0.3);
+      width: 59%;
+      float: left;
+    }
+    div.niks {
+      width:20%;
+      float: left;
+    }
+  ul li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+      font-family: sans-serif;
+      color: white;
+    }
+    body {
+      background-image:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/d-Wgo33/beautiful-clear-underwater-turquoise-blue-water-sea-bottom-diving-summer-relaxing-marine-background_sfwuhstbl_thumbnail-full01.png");
+    }
+    h1 {
+        font-size:86px;
+        padding: 5px;
+        color: rgba(0,0,0,0);
+      }
+    @media (max-width: 500px) {
+
+    }
